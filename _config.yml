@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-title: TestProd GmbH
-description: +41 78 900 00 00 | Zürich, Schweiz
+title:      TestProd GmbH
+description: **[contact@testprod.ch](contact@testprod.ch)** | [phone: +41 78 900 00 00](tel:+41789230000) | Zürich, Switzerland
 logo: /assets/img/logo.png
 show_downloads: true
 google_analytics:
