@@ -1,0 +1,5 @@
+# Mapping .sol Addresses to IBAN Addresses 
+
+| IBAN | .sol address | comment |
+|------|--------------|---------|
+| CH96 3000 0001 8000 1172 9 | CH9630000001800011729.sol | |
