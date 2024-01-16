@@ -2,4 +2,5 @@
 
 | IBAN | .sol address | comment |
 |------|--------------|---------|
-| CH96 3000 0001 8000 1172 9 | CH9630000001800011729.sol | |
+| CH96 3000 0001 8000 1172 9 | CH9630000001800011729.sol | without .sol subdomain |
+| CH96 3000 0001 8000 1172 9 | CH9630000001800011729.**iban**.sol | with iban .sol subdomain |
